@@ -1,7 +1,5 @@
 - Hi, I’m @GamingRoos
-- I’m interested in ... Nothing much to be honest, to name a couple: Space is is cool and so is coding.
-- I’m currently learning ... Discord.js for the repository "gydo-js" found here https://github.com/Gydo-Team/gydo.js
-- I’m looking to collaborate on ... Something send me an email and I might think about it
+- I'm recently into creating keyboards and am beginning to design a 65% Ortholinear board.
 - How to reach me ... landlcopley@gmail.com
 
 <!---
